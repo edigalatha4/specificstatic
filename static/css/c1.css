@@ -1,0 +1,22 @@
+body
+{
+    background-color: pink;
+}
+#a
+{
+  border-radius: 20px;
+  border-color: blue;
+  border-style: outset;
+}
+#b
+{
+   
+    border-radius: 20px;
+    border-color: blue;
+}
+#c
+{
+    border-radius: 20px;
+    border-style: groove;
+    border-color: blueviolet;
+}
